@@ -19,8 +19,8 @@ output: html_document
 
 
 ```{r}
-setwd('D:/Challenges')
-df <- read.csv('Biz2Credit_Challenge.csv', header = TRUE)
+#setwd('D:/Challenges')
+df <- read.csv('Challenge.csv', header = TRUE)
 df <- df[,1:10]
 ```
 

@@ -1,5 +1,5 @@
 ---
-title: "Biz2Credit"
+title: "Finance"
 author: "NehaBora"
 date: "August 4, 2017"
 output: html_document

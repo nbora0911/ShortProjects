@@ -1,4 +1,4 @@
-#Exercises
+## Exercises
 1. Count the number of users, bank accounts and tabulate:
 (i) the number of bank accounts for each user
 (ii) the number of months of each bank account for which data is available

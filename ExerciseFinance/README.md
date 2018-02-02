@@ -10,7 +10,3 @@
 4. Find a way to classify debit and credit transactions into a manageable set of sub-categories based on the description of the transaction. What % of each customer’s debit and credit transactions fall within the sub-categories that you have defined? 
 5. The cash flow of a business has many dimensions [for example, top 5 deposits/Total deposits,  average # of days between two withdrawals, coefficient of variation of the daily balance] that are potentially relevant to a borrower’s ability to repay. Can you obtain the value of these variables for each customer? What other cash flow variables can you hypothesize that could be relevant for predicting customer default?
 
-Notes:
-All spreadsheet work for these exercises should be conducted by you and you only
-Your work (which can be a combination of excel workbooks and powerpoint slides) is due back within one week of receipt
-You are free to use any software package (e.g., R, Python) provided you acknowledge its use
